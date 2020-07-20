@@ -2,10 +2,10 @@
 
 ## Overview of Project
 This is a project comparing different Kickstarter data as requested by Louise.
----
 
 ### Purpose
-The Purpose of this project was to compare Kickstarter outcomes based on their goals and the dates they were launched. 
+The purpose of this project was to compare Kickstarter outcomes based on their goals and the dates they were launched. 
+
 --- 
 ## Analysis and Challenges
 
@@ -26,7 +26,9 @@ One chart shows a line graph that pinpoints launch date by month so that we can 
 
 Most challenges I encounted involved formating. Its definetly a learning curve figuring out what excel is picky about. I had trouble displaying one of my charts correctly at first. One of my rows got bumped to the bottom in the pivot table. Even though it belonged at the top Im assuming this happened bevause it wasnt just numbers. I learned that when you right click on a cell, you have the option to move it up as well as send it straight to the top.
 
-I also learned its best to copy formatting to new sheets when copy and pasting information. Otherwise it can make things look weird.
+I also learned its best to copy sheet formatting on to new sheets if im copy and pasting the same data. I ran into the issue if my format looking weird when pasting.
+
+
 ---
 ## Results
 
