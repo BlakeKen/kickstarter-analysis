@@ -16,11 +16,13 @@ One chart shows a line graph that pinpoints launch date by month so that we can 
 
 ![](Resources/Theater_Outcomes_vs_Launch.png)
 
+
 ### Analysis of Outcomes Based on Goals
 
- The other chart shows a line graph comparing the percentage of failed and successful campaigns based on their funding goal. 
+ The other chart shows a line graph comparing the percentage of failed and successful campaigns based on their funding goal.
+ 
+ ![](Resources/Outcomes_vs_Goals.png)
 
-![](Resources/Oucomes_vs_Goals.png) 
  ---
 ### Challenges and Difficulties Encountered
 
